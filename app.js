@@ -16,7 +16,7 @@ let recentSearches = [];
 const ACCOUNTS = {
   'H-21': '1234',
   'CPL_GARREN': '12345',
-  'LT_JONES': 'jones77',
+  'CPT_BARRALAGA': '123456',
   'ADMIN': 'admin'
 };
 
